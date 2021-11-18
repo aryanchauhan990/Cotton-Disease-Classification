@@ -1,0 +1,6 @@
+numpy
+os
+tensorflow
+flask
+werkzueg
+Pillow
