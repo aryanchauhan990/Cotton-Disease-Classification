@@ -1,5 +1,5 @@
 numpy
 tensorflow
 flask
-werkzueg
+Werkzeug==1.0.1
 Pillow
