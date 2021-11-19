@@ -1,5 +1,5 @@
 numpy
-os==2.1.4
+os
 tensorflow
 flask
 werkzueg
