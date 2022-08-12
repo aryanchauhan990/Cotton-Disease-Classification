@@ -26,3 +26,27 @@ https://www.kaggle.com/code/aryanml007/cotton-disease-classification
 2) Accuracy vs Epochs plot
 
 ![image](https://user-images.githubusercontent.com/54737469/164888391-df2060c9-d60b-4127-a6b6-bf02ed1c3c5a.png)
+
+
+# UI for Uploading and Predicting to classify diseased and healthy leaves . It is hosted on local server
+
+
+1) Click on choose to upload the image of the leaf
+
+![First Step](https://user-images.githubusercontent.com/54737469/184320028-d694330e-4a50-463e-8c53-5f5250331ef7.png)
+
+2) Select the Image from loacl directory
+
+![Second Step](https://user-images.githubusercontent.com/54737469/184320342-ae5a5565-1298-44f9-a4e9-7385da4c7b34.png)
+
+3) Click on predict Button 
+
+![Third Step](https://user-images.githubusercontent.com/54737469/184320453-9140a20a-7216-4c47-9794-ca26ccbd714a.png)
+
+4) Get the results 
+
+![Fourth Step](https://user-images.githubusercontent.com/54737469/184320552-bf66f2db-f715-4f10-92c7-a38ae7bc4939.png)
+
+
+
+
